@@ -36,7 +36,7 @@ Developer and reporting analyst <img src="https://media.giphy.com/media/WUlplcMp
 
 - 💟:Passionate about learning languages :es: :fr: :en:
 
-  ## We don't know nothing but everything can be learned ☣️
+  ## We know nothing but everything can be learned ☣️
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
