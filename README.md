@@ -57,3 +57,4 @@ Developer and reporting analyst <img src="https://media.giphy.com/media/WUlplcMp
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keren10110&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keren10110)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keren10110&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=keren10110&show_icons=true&theme=radical)](https://github.com/agentemotor)
