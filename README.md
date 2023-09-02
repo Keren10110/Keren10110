@@ -53,5 +53,6 @@ Developer and reporting analyst <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :fire: My Stats :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keren10110)](https://github.com/keren10110/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keren10110&layout=compact)](https://github.com/keren10110)
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=keren10110&show_icons=true&theme=radical)](https://github.com/agentemotor)
