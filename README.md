@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/> 
 </div>
 <div id="badges" align="center">
-  <a href="https://www.twitter.com/huitbitz" target="_blank">
+  <a href="https://www.twitter.com/huitbitz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
