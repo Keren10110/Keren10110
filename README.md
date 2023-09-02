@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋-->
+### Hi there 👋
 
 <!--
 **Keren10110/Keren10110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +22,8 @@ Here are some ideas to get you started:
   <a href="https://www.twitter.com/huitbitz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
