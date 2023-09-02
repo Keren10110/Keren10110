@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 Developer and reporting analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :colombia:
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications deployed in AWS and features implementatios in Odoo™️ [bootstrap-markdown][1]
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications deployed in AWS and features implementatios in Odoo™️
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I code for personal purposes, solve sudoku or wordsearch and others 🎧🎮📖
 
-- 💟:Passionate about learning languages :es: :fr: & :EN: 🇨🇴   🇨🇴  🇨🇴 
+- 💟:Passionate about learning languages :es: :fr: :en:
 
   ## We don't a thing but it can be learned ☣️
 - ---
