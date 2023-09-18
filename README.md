@@ -34,7 +34,7 @@ Developer and reporting analyst <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I code for personal purposes, solve sudoku or wordsearch and others 🎧🎮📖
 
-- 💟:Passionate about learning languages :es: :fr: :en:
+- 💟:Passionate about learning languages **ES** **EN** **FR** **IT**
 
   ## We know nothing but everything can be learned ☣️
 - ---
