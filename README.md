@@ -36,7 +36,7 @@ Developer and Business Intelligence analyst <img src="https://media.giphy.com/me
 
 - 💟:Passionate about learning languages **ES** **EN** **FR** **IT**
 
-  ## We know nothing but everything can be learned ☣️
+  ## We know nothing but anything can be learned ☣️
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
