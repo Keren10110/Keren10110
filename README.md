@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
-Developer and Business Intelligence analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :colombia:
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications deployed in AWS and feature implementatios in Odoo™️
+Software Engineer and Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :colombia:
+- :telescope: I’m working as a Software Engineer (Currently at royal bank of canada) and contributing to frontend and backend for building web applications working with python: pandas, dash, scrapping, etc, react and typescript.
 
 - :seedling: Exploring Technical Content Writing.
 
