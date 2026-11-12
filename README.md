@@ -27,14 +27,16 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
-Software Engineer and Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :colombia:
-- :telescope: I’m working as a Software Engineer (Currently at royal bank of canada) and contributing to frontend and backend for building web applications working with python: pandas, dash, scrapping, etc, react and typescript.
+Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :colombia:
+- :telescope: I'm contributing to frontend and backend for building web applications working with python: pandas, dash, scrapping, etc, react and typescript.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I code for personal purposes, solve sudoku or wordsearch and others 🎧🎮📖
 
 - 💟:Passionate about learning languages **ES** **EN** **FR** **IT**
+- Check the latest solutions I shared with the community: https://cuentasclaras.datocentral.org
+  https://invsight.datocentral.org
 
   ## We know nothing but anything can be learned ☣️
 - ---
